@@ -1,6 +1,6 @@
 {
   "name": "mustring",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strings micro toolkit",
   "main": "index.js",
   "directories": {
