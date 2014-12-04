@@ -1,3 +1,4 @@
+var upper = require('./upper');
 //aaa → Aaa
 module.exports = function(str){
 	str+='';
