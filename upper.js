@@ -1,4 +1,4 @@
 //uppercaser
 module.exports = function(str){
-	return str.toUpperCase();
+	return (str + '').toUpperCase();
 }
