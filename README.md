@@ -1,4 +1,4 @@
-# μString [![Build Status](https://travis-ci.org/dfcreative/mustring.svg?branch=master)](https://travis-ci.org/dfcreative/mustring) <a href="http://unlicense.org/UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
+# μString [![Build Status](https://travis-ci.org/dfcreative/mustring.svg?branch=master)](https://travis-ci.org/dfcreative/mustring) [![Code Climate](https://codeclimate.com/github/dfcreative/mustring/badges/gpa.svg)](https://codeclimate.com/github/dfcreative/mustring) <a href="UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
 
 Micro string utils lib.
 

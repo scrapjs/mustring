@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "files": [
+    "*.js"
+  ],
   "scripts": {
     "test": "node test/index.js"
   },
@@ -22,7 +25,7 @@
     "capfirst"
   ],
   "author": "dfcreative",
-  "license": "MIT",
+  "license": "unlicense",
   "bugs": {
     "url": "https://github.com/dfcreative/mustring/issues"
   },
